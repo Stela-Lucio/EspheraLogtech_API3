@@ -50,7 +50,6 @@ Projeto baseado na metodologia ágil SCRUM (método aliado dos gestores de proje
 | Team Member   | Emilly Tamanhoni            |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilly-tamanhoni-1b1ba2294) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/emillytamanhoni)        |
 |  Team Member  | Fagner Pereira                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fagner-santos-235a82229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/FagPSantos)        |
 |  Team Member  | Kaick Monfredini                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaick-silva-418869230) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ka1ck)   |
-|  Team Member  | Stela Lúcio       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stela-lúcio-4849ab289) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Stela-Lucio)          |
 
 
 # Objetivo do Projeto
@@ -63,10 +62,11 @@ Este projeto em parceria com a EMTU tem como objetivo mapear e desenvolver um pl
 
 Sprint | Previsão | Status| Histórico| Apresentação|
 |------|--------|------|--------|---------|
-|01 | 07/10/2024 | Concluído| - |[Ver Apresentação](Arquivos_Sprint1/Sprint1.pdf) |
-|02|  11/11/2024|Concluído|-|[Ver Apresentação](Arquivos_Sprint1/Sprint2.pdf)|
-|03| 25/11/2024 | Concluído| - | [Ver Apresentação](Arquivos_sprint3/Planejamento_Urbano_Sprint4.pdf) |
-|Feira de Soluções|12/12/2024 |Concluído |  [Ver Relatório](Arquivos_feira/Relatório_API.pdf) | [Ver Apresentação](Arquivos_feira/Planejamento_Urbano_Feira.pdf)/ [Ver Dashboard](Arquivos_feira/Planejamento_UrbanoAPI2.pdf)|
+|01 | 04/04/2025 | Finalizando| - |[MVP](https//) |
+|02|  25/04/2025|A fazer|-|[MVP](https//)|
+|03| 16/05/2025 | A fazer| - | [MVP](https//)|
+|Feira de Soluções|29/05/2025 |A fazer |  [MVP](https//)|
+|04 | 26/06/2025 | A fazer| - |[MVP](https//) |
   
 # Backlog
 
