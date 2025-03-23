@@ -46,7 +46,7 @@ Sprint | Forecast | Status| History| Apresentacion|
 |01 | 04/04/2025 | Finishing| - |[MVP](https//) |
 |02|  25/04/2025|To do|-|[MVP](https//)|
 |03| 16/05/2025 | To do| - | [MVP](https//)|
-|Solutions Fair|29/05/2025 |To do |  [MVP](https//)|
+|Solutions Fair|29/05/2025 |To do | - | [MVP](https//)|
 |04 | 26/06/2025 | To do| - |[MVP](https//) |
   
 # User Stories
