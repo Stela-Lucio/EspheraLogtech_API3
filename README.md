@@ -5,44 +5,25 @@
 
 
 
-# Quem somos?
+# Who we are?
 
-*"Connecting the World!"  |  "Conectando o mundo!"*
+*"Connecting the World!"*
 
-Bem-vindo(a) à ESPHERA LOGTECH, onde conectamos o mundo com soluções logísticas inteligentes e ágeis. Nossa missão é integrar tecnologia e planejamento urbano para atender de forma eficiente e segura às necessidades de cada cliente. Com uma abordagem inovadora, transformamos o setor de transporte, impulsionando a mobilidade global com precisão e excelência.
+Welcome ESPHERA LOGTECH, where we connect the world with smart and agile logistics solutions. Our mission is to integrate technology and urban planning to efficiently and safely meet the needs of each client. With an innovative approach, we transform the transportation sector, driving global mobility with precision and excellence.
 
->Logo
-<div id="top"></div>
-<p align="right side">
-      <img src="Arquivos_Sprint1/ESPHERA_LOGTECH.png" width="30%" height="30%">
-<p align="center">
+# Index
 
-
->Organograma
-<div id="top"></div>
-<p align="right side">
-      <img src="Arquivos_Sprint1/Equipe.png" width="70%" height="70%">
-<p align="center">
-
->Organograma
-<div id="top"></div>
-<p align="right side">
-      <img src="Arquivos_Sprint1/Tecnologias.png" width="70%" height="70%">
-<p align="center">
-
-# Índice
-
-* [Projeto](#projeto-template)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
+* [Project](#Project-(API))
+* [Team](#Team)
+* [Project Objective](#Project-Objective)
 * [Sprints](#Sprints)
-* [Backlog do produto](#Backlog-do-produto)
+* [User Stories](#User-Stories)
 
-# Projeto (API) 
-Projeto baseado na metodologia ágil SCRUM (método aliado dos gestores de projetos), procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
+# Project (API) 
+Project based on the Agile SCRUM methodology, widely used by project managers, with the goal of developing Proactivity, Autonomy, Collaboration, and a Results-Oriented Mindset in students. This method stands out for its structured approach to task organization and execution, ensuring effective, precise, and goal-aligned deliveries. As a result, it fosters optimized technological development, driving efficiency and innovation.
 
-# Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
+# Team
+|    Function     | Name                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Jennifer Senne         |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jennifer-senne-97a0452b9) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JSenne15)              |
 | Scrum Master  | Stela Lúcio |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stela-lúcio-4849ab289) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Stela-Lucio)     |
@@ -52,7 +33,7 @@ Projeto baseado na metodologia ágil SCRUM (método aliado dos gestores de proje
 |  Team Member  | Kaick Monfredini                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaick-silva-418869230) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Ka1ck)   |
 
 
-# Objetivo do Projeto
+# Project Objective
 Este projeto em parceria com a EMTU tem como objetivo mapear e desenvolver um plano de integração para o transporte público, utilizando dados estratégicos de planejamento urbano, visando:
 * Mapear e planejar melhorias no transporte público com base em dados estratégicos de planejamento urbano;
 * Aprimorar a eficiência e conectividade do sistema de transporte público, proporcionando um fluxo de mobilidade mais ágil e acessível;
@@ -60,43 +41,23 @@ Este projeto em parceria com a EMTU tem como objetivo mapear e desenvolver um pl
 
 # Sprints
 
-Sprint | Previsão | Status| Histórico| Apresentação|
+Sprint | Forecast | Status| History| Apresentacion|
 |------|--------|------|--------|---------|
-|01 | 04/04/2025 | Finalizando| - |[MVP](https//) |
-|02|  25/04/2025|A fazer|-|[MVP](https//)|
-|03| 16/05/2025 | A fazer| - | [MVP](https//)|
-|Feira de Soluções|29/05/2025 |A fazer |  [MVP](https//)|
-|04 | 26/06/2025 | A fazer| - |[MVP](https//) |
+|01 | 04/04/2025 | Finishing| - |[MVP](https//) |
+|02|  25/04/2025|To do|-|[MVP](https//)|
+|03| 16/05/2025 | To do| - | [MVP](https//)|
+|Solutions Fair|29/05/2025 |To do |  [MVP](https//)|
+|04 | 26/06/2025 | To do| - |[MVP](https//) |
   
-# Backlog
+# User Stories
 
- > Backlog do produto
+ > Product Backlog
 
 <div id="top"></div>
 <p align="right side">
-      <img src="Arquivos_Sprint1/Backlog_API2.png" width="80%" height="80%">
+      <img src="imagem" width="80%" height="80%">
 <p align="center">
 
-## Sprint 1. Concepção
-- [X] Entendimento da proporta da EMTU;
-- [X] Apresentação das ideias iniciais;
-- [X] Mapeamento inicial dos possíveis pontos para estação tubo;
-- [X] Mapeamento inicial das paradas especificas e alternadas;
-- [X] Montar apresentação da sprint.
-
-## Sprint 2. Desenvolvimento do Projeto
-- [X] Analise das linhas da EMTU;
-- [X] Contato com dados disponibilizados;
-- [X] Mapeamento real das localizações ideais para a estação tubo;
-- [X] Analise de gastos, custos e demanda;
-- [X] Estruturar o relatório da sprint 2;
-- [X] Apresentação sprint 2.
-     
-## Sprint 3. Operacionalização
-- [X] Finalização e entrega do dashboard;
-- [X] Revisar dados;
-- [X] Preparação para a apresentação final;
-- [X] Estruturar relatório final.
 
 
 
