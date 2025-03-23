@@ -1,7 +1,7 @@
 ![CAPA](https://github.com/user-attachments/assets/c37d7bc3-f698-4e98-a5dd-7d5c6cc1ecaf)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=BEM+VINDO(A)+À+ESPHERA+LOGTECH!;VENHA+CONECTAR+O+MUNDO+CONOSCO!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+ESPHERA+LOGTECH!;COME+CONNECT+THE+WORLD+WITH+US!)](https://git.io/typing-svg)
 
 
 
@@ -9,7 +9,7 @@
 
 *"Connecting the World!"*
 
-Welcome ESPHERA LOGTECH, where we connect the world with smart and agile logistics solutions. Our mission is to integrate technology and urban planning to efficiently and safely meet the needs of each client. With an innovative approach, we transform the transportation sector, driving global mobility with precision and excellence.
+Welcome ESPHERA LOGTECH, where we connect the world with intelligent and agile logistics solutions. Our mission as a group of students is to integrate technology and planning to efficiently and safely meet the needs of each client. With an innovative approach, we transform the routing sector, driving global mobility with precision and excellence.
 
 # Index
 
