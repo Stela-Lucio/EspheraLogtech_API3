@@ -34,20 +34,17 @@ Project based on the Agile SCRUM methodology, widely used by project managers, w
 
 
 # Project Objective
-Este projeto em parceria com a EMTU tem como objetivo mapear e desenvolver um plano de integração para o transporte público, utilizando dados estratégicos de planejamento urbano, visando:
-* Mapear e planejar melhorias no transporte público com base em dados estratégicos de planejamento urbano;
-* Aprimorar a eficiência e conectividade do sistema de transporte público, proporcionando um fluxo de mobilidade mais ágil e acessível;
-* Ampliar o acesso e a qualidade do transporte para todos os usuários, especialmente em áreas periféricas e de alta densidade populacional.
+Our goal is to develop an optimized routing solution for a brewery’s delivery trucks by analyzing logistical data related to freight, factories, transported volumes, and load capacities. The proposal aims to identify more efficient opportunities that reduce operational costs, increase fleet utilization, and ensure proper demand fulfillment, contributing to the optimization of the company's logistical planning.
 
 # Sprints
 
-Sprint | Forecast | Status| History| Apresentacion|
-|------|--------|------|--------|---------|
-|01 | 04/04/2025 | Finishing| - |[MVP](https//) |
-|02|  25/04/2025|To do|-|[MVP](https//)|
-|03| 16/05/2025 | To do| - | [MVP](https//)|
-|Solutions Fair|29/05/2025 |To do | - | [MVP](https//)|
-|04 | 26/06/2025 | To do| - |[MVP](https//) |
+Sprint | Forecast | Status| Apresentacion|
+|------|--------|------|--------|
+|01 | 04/04/2025 | Finishing|[MVP](https//) |
+|02|  25/04/2025|To do|[MVP](https//)|
+|03| 16/05/2025 | To do | [MVP](https//)|
+|Solutions Fair|29/05/2025 |To do  | [MVP](https//)|
+|04 | 26/06/2025 | To do |[MVP](https//) |
   
 # User Stories
 
@@ -58,8 +55,11 @@ Sprint | Forecast | Status| History| Apresentacion|
       <img src="Sprint1/User_Story.png" width="120%" height="120%">
 <p align="center">
   
+# Sprint 1. Conception
 
-
-
-
+- [X] Understanding the client's proposal;
+- [X] Presentation of initial ideas;
+- [X] Initial data mapping;
+- [X] Structuring the idea of a possible final product;
+- [X] Preparing the sprint presentation.
 
