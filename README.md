@@ -52,7 +52,7 @@ Sprint | Forecast | Status| Apresentacion|
 
 <div id="top"></div>
 <p align="right side">
-      <img src="Sprint1/User_Story.png" width="180%" height="180%">
+      <img src="Sprint1/User_Story_.png" width="100%" height="100%">
 <p align="center">
   
 # Sprint 1. Conception
