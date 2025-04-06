@@ -40,8 +40,8 @@ Our goal is to develop an optimized routing solution for a brewery’s delivery 
 
 Sprint | Forecast | Status| Apresentacion|
 |------|--------|------|--------|
-|01 | 04/04/2025 | Finishing|[MVP](https//) |
-|02|  25/04/2025|To do|[MVP](https//)|
+|01 | 04/04/2025 | Completed|[MVP](https//) |
+|02|  25/04/2025|In development|[MVP](https//)|
 |03| 16/05/2025 | To do | [MVP](https//)|
 |Solutions Fair|29/05/2025 |To do  | [MVP](https//)|
 |04 | 26/06/2025 | To do |[MVP](https//) |
