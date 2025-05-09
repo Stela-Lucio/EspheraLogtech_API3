@@ -38,13 +38,13 @@ Our goal is to develop an optimized routing solution for a brewery’s delivery 
 
 # Sprints
 
-Sprint | Forecast | Status| Apresentacion|
-|------|--------|------|--------|
-|01 | 04/04/2025 | Completed|[MVP](Sprint1/Apresentaçao_sprint1.pdf) |
-|02|  25/04/2025|In development|[MVP](https//)|
-|03| 16/05/2025 | To do | [MVP](https//)|
-|Solutions Fair|29/05/2025 |To do  | [MVP](https//)|
-|04 | 26/06/2025 | To do |[MVP](https//) |
+Sprint | Forecast | Status| Report|Apresentacion|
+|------|--------|------|--------|--------|
+|01 | 04/04/2025 | Completed|-|[MVP](Sprint1/Apresentaçao_sprint1.pdf) |
+|02|  25/04/2025|In development|[View Report](Sprint2/Relatório_Sprint2.pdf)|[Dashboard and Apresentation](Sprint2/Dashboard_Sprint2.pdf)|
+|03| 16/05/2025 | To do |-| -|
+|Solutions Fair|29/05/2025 |To do|-| -|
+|04 | 26/06/2025 | To do |-|-|
   
 # User Stories
 
@@ -65,10 +65,11 @@ Sprint | Forecast | Status| Apresentacion|
 
 # Sprint 2. Project Development
 
-- [X] 
-- [X] 
-- [X] 
-- [X] 
-- [X] 
+- [X] Start building the Power BI structure;
+- [X] Analyze the data and routes;
+- [X] Filter and identify promising data;
+- [X] Data quality assessment;
+- [X] Software updates;
+- [X] Structure the Sprint 2 report.
 
 
