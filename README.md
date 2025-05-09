@@ -40,7 +40,7 @@ Our goal is to develop an optimized routing solution for a brewery’s delivery 
 # Estrategic
 At our company, we combine technology, data analysis, and creativity to develop personalized solutions that optimize time, reduce costs, and drive results. Our strategy is centered on a deep understanding of each client’s needs, applying market intelligence and digital tools to turn challenges into opportunities.
 
-[Click here](Sprint2/Estratégias.pdf)
+[Click here](Sprint2/Estrategias.pdf)
 
 
 
