@@ -16,6 +16,7 @@ Welcome ESPHERA LOGTECH, where we connect the world with intelligent and agile l
 * [Project](#Project-(API))
 * [Team](#Team)
 * [Project Objective](#Project-Objective)
+* [Estrategic](#Estrategic)
 * [Sprints](#Sprints)
 * [User Stories](#User-Stories)
 
@@ -36,12 +37,19 @@ Project based on the Agile SCRUM methodology, widely used by project managers, w
 # Project Objective
 Our goal is to develop an optimized routing solution for a brewery’s delivery trucks by analyzing logistical data related to freight, factories, transported volumes, and load capacities. The proposal aims to identify more efficient opportunities that reduce operational costs, increase fleet utilization, and ensure proper demand fulfillment, contributing to the optimization of the company's logistical planning.
 
+# Estrategic
+At our company, we combine technology, data analysis, and creativity to develop personalized solutions that optimize time, reduce costs, and drive results. Our strategy is centered on a deep understanding of each client’s needs, applying market intelligence and digital tools to turn challenges into opportunities.
+
+[Click here](Sprint2/Estratégias.pdf)
+
+
+
 # Sprints
 
 Sprint | Forecast | Status| Report|Apresentacion|
 |------|--------|------|--------|--------|
 |01 | 04/04/2025 | Completed|-|[View Apresentation](Sprint1/Apresentaçao_sprint1.pdf) |
-|02|  25/04/2025|In development|[View Report](Sprint2/Relatório_Sprint2.pdf)|[View Dashboard and Apresentation](Sprint2/Dashboard_Sprint2.pdf)|
+|02|  25/04/2025|Finishing|[View Report](Sprint2/Relatório_Sprint2.pdf)|[View Dashboard](Sprint2/Dashboard_Sprint2.pdf)/[View Apresentation](Sprint2/Sprint2.pdf)|
 |03| 16/05/2025 | To do |-| -|
 |Solutions Fair|29/05/2025 |To do|-| -|
 |04 | 26/06/2025 | To do |-|-|
