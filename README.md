@@ -40,8 +40,8 @@ Our goal is to develop an optimized routing solution for a brewery’s delivery 
 
 Sprint | Forecast | Status| Report|Apresentacion|
 |------|--------|------|--------|--------|
-|01 | 04/04/2025 | Completed|-|[MVP](Sprint1/Apresentaçao_sprint1.pdf) |
-|02|  25/04/2025|In development|[View Report](Sprint2/Relatório_Sprint2.pdf)|[Dashboard and Apresentation](Sprint2/Dashboard_Sprint2.pdf)|
+|01 | 04/04/2025 | Completed|-|[View Apresentation](Sprint1/Apresentaçao_sprint1.pdf) |
+|02|  25/04/2025|In development|[View Report](Sprint2/Relatório_Sprint2.pdf)|[View Dashboard and Apresentation](Sprint2/Dashboard_Sprint2.pdf)|
 |03| 16/05/2025 | To do |-| -|
 |Solutions Fair|29/05/2025 |To do|-| -|
 |04 | 26/06/2025 | To do |-|-|
