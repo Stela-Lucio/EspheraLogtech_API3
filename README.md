@@ -47,7 +47,7 @@ At our company, we combine technology, data analysis, and creativity to develop 
 For the implementation of the codes developed in the project, we used Google Colab and the R programming language, which enable practical and efficient data manipulation and analysis. Both tools are widely used in data science, machine learning, and education, offering cloud-based computing resources. All developed structures are available in the links below.
 
 [Google Collab](https://colab.research.google.com/drive/1fle8LGHwVCtldodr0XxIFnxx__x676Hp?usp=sharing)
-[Language R]
+
 
 
 # Sprints
