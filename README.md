@@ -17,6 +17,7 @@ Welcome ESPHERA LOGTECH, where we connect the world with intelligent and agile l
 * [Team](#Team)
 * [Project Objective](#Project-Objective)
 * [Estrategic](#Estrategic)
+* [Collab and Language R](#Collab_and_Language_R)
 * [Sprints](#Sprints)
 * [User Stories](#User-Stories)
 
@@ -42,17 +43,21 @@ At our company, we combine technology, data analysis, and creativity to develop 
 
 [Click here](Sprint2/Estrategias.pdf)
 
+# Collab and Language R
+For the implementation of the codes developed in the project, we used Google Colab and the R programming language, which enable practical and efficient data manipulation and analysis. Both tools are widely used in data science, machine learning, and education, offering cloud-based computing resources. All developed structures are available in the links below.
+
+[Google Collab](https://colab.research.google.com/drive/1fle8LGHwVCtldodr0XxIFnxx__x676Hp?usp=sharing)
+[Language R]
 
 
 # Sprints
 
 Sprint | Forecast | Status| Report|Apresentacion|
 |------|--------|------|--------|--------|
-|01 | 04/04/2025 | Completed|-|[View Apresentation](Sprint1/Apresentaçao_sprint1.pdf) |
-|02|  25/04/2025|Finishing|[View Report](Sprint2/Relatório_Sprint2.pdf)|[View Dashboard](Sprint2/Dashboard_Sprint2.pdf)/[View Apresentation](Sprint2/Sprint2.pdf)|
-|03| 16/05/2025 | To do |-| -|
+|01 | 14/04/2025 | Completed|-|[View Apresentation](Sprint1/Apresentaçao_sprint1.pdf) |
+|02|  09/05/2025| Completed|[View Report](Sprint2/Relatório_Sprint2.pdf)|[View Dashboard](Sprint2/Dashboard_Sprint2.pdf)/[View Apresentation](Sprint2/Sprint2.pdf)|
+|03| 30/05/2025 | Developing |-| -|
 |Solutions Fair|29/05/2025 |To do|-| -|
-|04 | 26/06/2025 | To do |-|-|
   
 # User Stories
 
