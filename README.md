@@ -17,7 +17,7 @@ Welcome ESPHERA LOGTECH, where we connect the world with intelligent and agile l
 * [Team](#Team)
 * [Project Objective](#Project-Objective)
 * [Estrategic](#Estrategic)
-* [Collab and Language R](#Collab_and_Language_R)
+* [Colab and Language R](#Colab_and_Language_R)
 * [Sprints](#Sprints)
 * [User Stories](#User-Stories)
 
@@ -43,10 +43,10 @@ At our company, we combine technology, data analysis, and creativity to develop 
 
 [Click here](Sprint2/Estrategias.pdf)
 
-# Collab and Language R
+# Colab and Language R
 For the implementation of the codes developed in the project, we used Google Colab and the R programming language, which enable practical and efficient data manipulation and analysis. Both tools are widely used in data science, machine learning, and education, offering cloud-based computing resources. All developed structures are available in the links below.
 
-[Google Collab](https://colab.research.google.com/drive/1fle8LGHwVCtldodr0XxIFnxx__x676Hp?usp=sharing)
+[Google Colab](https://colab.research.google.com/drive/1fle8LGHwVCtldodr0XxIFnxx__x676Hp?usp=sharing)
 
 
 
