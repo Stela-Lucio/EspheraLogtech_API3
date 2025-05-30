@@ -44,9 +44,23 @@ At our company, we combine technology, data analysis, and creativity to develop 
 [Click here](Sprint2/Estrategias.pdf)
 
 # Colab and Language R
-For the implementation of the codes developed in the project, we used Google Colab and the R programming language, which enable practical and efficient data manipulation and analysis. Both tools are widely used in data science, machine learning, and education, offering cloud-based computing resources. All developed structures are available in the links below.
+For the implementation of the codes developed in the project, we used Google Colab, which allows for practical and efficient data manipulation and analysis. The tool is widely used in data science and machine learning, offering cloud-based computing resources. All the developed structures and their explanations are provided below.
 
-[Google Colab](https://colab.research.google.com/drive/1fle8LGHwVCtldodr0XxIFnxx__x676Hp?usp=sharing)
+> Data analysis and processing
+In the initial phase, we performed the main analyses, such as mapping clients and factories, resolving errors found in the dataset, and ensuring the data was clean and structured for the next steps of the project.
+
+[Analysis](https://colab.research.google.com/drive/1fle8LGHwVCtldodr0XxIFnxx__x676Hp?usp=sharing)
+
+> Efficiency of factories and clients
+The efficiency was evaluated based on the freight cost and the quantity transported, following the logic that the higher the freight cost, the greater the quantity that should be transported. The code was developed using the DEA (Data Envelopment Analysis) method, and to run it, the attached spreadsheet must be used.
+
+[Efficiency](https://colab.research.google.com/drive/1m3M9kJhroMLSICGGk37iRwBq8IoMJJ0L?usp=sharing) and
+
+
+> Cost optimization
+For the optimization, we used the factories' capacity, customer demand, and the average unit cost of each route. The goal was to optimize the 2023 freight cost, which amounted to R$25,477,365.12.
+
+[Optimization](https://colab.research.google.com/drive/14dvOypDADRu2HdBGbE-o2B2jg0R4X2Re?usp=sharing)
 
 
 
@@ -84,5 +98,11 @@ Sprint | Forecast | Status| Report|Apresentacion|
 - [X] Data quality assessment;
 - [X] Software updates;
 - [X] Structure the Sprint 2 report.
+      
+# Sprint 3. Operationalization
 
+- [X]Finalization and delivery of the dashboard;
+- [X]Data review;
+- [X]Preparation for the final presentation;
+- [X]Efficiency and optimization
 
