@@ -70,8 +70,8 @@ Sprint | Forecast | Status| Report|Apresentacion|
 |------|--------|------|--------|--------|
 |01 | 14/04/2025 | Completed|-|[View Apresentation](Sprint1/Apresentaçao_sprint1.pdf) |
 |02|  09/05/2025| Completed|[View Report](Sprint2/Relatório_Sprint2.pdf)|[View Dashboard](Sprint2/Dashboard_Sprint2.pdf)/[View Apresentation](Sprint2/Sprint2.pdf)|
-|03| 30/05/2025 | Developing |-| -|
-|Solutions Fair|29/05/2025 |To do|-| -|
+|03| 30/05/2025 | Completed |[View Report](Sprint2/Relatório_Sprint2.pdf)| [View Dashboard]()/[View Apresentation]()|
+|Solutions Fair|17/06/2025 |Developing|[View Report](Sprint2/Relatório_Sprint2.pdf)| [View Dashboard]()/[View Apresentation]()|
   
 # User Stories
 
@@ -101,8 +101,8 @@ Sprint | Forecast | Status| Report|Apresentacion|
       
 # Sprint 3. Operationalization
 
-- [X]Finalization and delivery of the dashboard;
-- [X]Data review;
-- [X]Preparation for the final presentation;
-- [X]Efficiency and optimization
+- [X] Finalization and delivery of the dashboard;
+- [X] Data review;
+- [X] Preparation for the final presentation;
+- [X] Efficiency and optimization.
 
