@@ -54,7 +54,7 @@ In the initial phase, we performed the main analyses, such as mapping clients an
 > Efficiency of factories and clients
 The efficiency was evaluated based on the freight cost and the quantity transported, following the logic that the higher the freight cost, the greater the quantity that should be transported. The code was developed using the DEA (Data Envelopment Analysis) method, and to run it, the attached spreadsheet must be used.
 
-[Efficiency](https://colab.research.google.com/drive/1m3M9kJhroMLSICGGk37iRwBq8IoMJJ0L?usp=sharing) and
+[Efficiency](https://colab.research.google.com/drive/1m3M9kJhroMLSICGGk37iRwBq8IoMJJ0L?usp=sharing) and [Spreadsheet](Sprint3/matriz_atualizada.xlsx)
 
 
 > Cost optimization
@@ -70,7 +70,7 @@ Sprint | Forecast | Status| Report|Apresentacion|
 |------|--------|------|--------|--------|
 |01 | 14/04/2025 | Completed|-|[View Apresentation](Sprint1/Apresentaçao_sprint1.pdf) |
 |02|  09/05/2025| Completed|[View Report](Sprint2/Relatório_Sprint2.pdf)|[View Dashboard](Sprint2/Dashboard_Sprint2.pdf)/[View Apresentation](Sprint2/Sprint2.pdf)|
-|03| 30/05/2025 | Completed |[View Report](Sprint2/Relatório_Sprint2.pdf)| [View Dashboard]()/[View Apresentation]()|
+|03| 30/05/2025 | Completed |[View Report](Sprint2/Relatório_Sprint2.pdf)| [View Dashboard](Sprint3/PowerBI_API3_.pdf)/[View Apresentation]()|
 |Solutions Fair|17/06/2025 |Developing|[View Report](Sprint2/Relatório_Sprint2.pdf)| [View Dashboard]()/[View Apresentation]()|
   
 # User Stories
