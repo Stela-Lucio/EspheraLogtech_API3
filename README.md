@@ -70,8 +70,8 @@ Sprint | Forecast | Status| Report|Apresentacion|
 |------|--------|------|--------|--------|
 |01 | 14/04/2025 | Completed|-|[View Apresentation](Sprint1/Apresentaçao_sprint1.pdf) |
 |02|  09/05/2025| Completed|[View Report](Sprint2/Relatório_Sprint2.pdf)|[View Dashboard](Sprint2/Dashboard_Sprint2.pdf)/[View Apresentation](Sprint2/Sprint2.pdf)|
-|03| 30/05/2025 | Completed |[View Report](Sprint2/Relatório_Sprint2.pdf)| [View Dashboard](Sprint3/PowerBI_API3_.pdf)/[View Apresentation]()|
-|Solutions Fair|17/06/2025 |Developing|[View Report](Sprint2/Relatório_Sprint2.pdf)| [View Final dashboard](https://youtu.be/QY9EFPKqM3M)/[View Apresentation](Sprint3/Apresentação_Sprint3.pdf)|
+|03| 30/05/2025 | Completed |[View Report](Sprint2/Relatório_Sprint2.pdf)| [View Dashboard](Sprint3/PowerBI_API3_.pdf)/[View Apresentation](Sprint3/Apresentação_Sprint3.pdf)| 
+|Solutions Fair|17/06/2025 |Developing|[View Report](Sprint2/Relatório_Sprint2.pdf)| [View Final dashboard](https://youtu.be/QY9EFPKqM3M)/[View Apresentation](Sprint3/Feira3.pdf)|
   
 # User Stories
 
